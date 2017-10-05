@@ -1,6 +1,6 @@
 # Assessment 1
 
-[![Monthly Temperature Time Series](preview.png)](https://vriesm060.github.io/fe3-assessment-1/){:target="_blank"}
+[![Monthly Temperature Time Series](preview.png)](https://vriesm060.github.io/fe3-assessment-1/)
 
 This data visualisation represents a monthly temperature time series of De Bilt between January 1901 and August 2017, as cleaned from [knmi.nl](http://www.knmi.nl/home).
 
